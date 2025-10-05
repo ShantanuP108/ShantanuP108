@@ -91,6 +91,19 @@ A resilient analytics platform on **AWS EKS** with **multi-region failover, Terr
 
 ---
 
+## 🏆 Open Source Contributions
+
+![Kubernetes Contributor](https://contribcard.clotributor.dev/ShantanuP108)
+
+### Kubernetes Documentation Contributor
+- **PR #52610**: Enhanced Hindi README with 7 critical sections
+- **Impact**: Improved accessibility for 600M+ Hindi speakers
+- **Status**: ✅ Under Review
+
+[View My Contributor Card](https://contribcard.clotributor.dev/ShantanuP108)
+
+---
+
 ### 📊 GitHub Stats  
 
 <p align="center">
